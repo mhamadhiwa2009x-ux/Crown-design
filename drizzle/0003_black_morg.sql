@@ -1,0 +1,1 @@
+ALTER TABLE `storeSettings` ADD `deliveryPrice` decimal(10,2) DEFAULT '0' NOT NULL;
